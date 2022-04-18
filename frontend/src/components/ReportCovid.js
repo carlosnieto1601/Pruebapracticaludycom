@@ -56,3 +56,5 @@ const ReportCovid = ({date,setListUpdated}) => {
 }
  
 export default ReportCovid;
+
+
